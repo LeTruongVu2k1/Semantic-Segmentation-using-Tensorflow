@@ -1,4 +1,4 @@
-# Semantic-Segmentation-using-Tensorflow
+# Sentiment classification using Tensorflow
 
 Một vấn đề tồn tại cho bất kỳ trang web lớn nào hiện nay là làm thế nào để xử lý nội dung độc hại và gây chia rẽ. 
 Quora muốn tự động giải quyết vấn đề này trực tiếp để giữ cho nền tảng của họ là nơi người dùng có thể cảm thấy an toàn khi chia sẻ kiến thức với thế giới.
